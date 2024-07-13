@@ -4,7 +4,7 @@ A modern and responsive clothing e-commerce website built using React and Tailwi
 
 ## Live Demo
 
-Check out the live demo of the website [Live](your-live-link-here).
+Check out the live demo of the website [Live](https://clothing-website-eight.vercel.app/).
 
 ## Features
 
